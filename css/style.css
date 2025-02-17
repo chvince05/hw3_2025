@@ -119,6 +119,7 @@ first div in the grid  and place it in the grid. */
 
      .container {
           grid-template-columns: 50px auto 500px auto 50px;
+          align-items: center;
      }
 
 
